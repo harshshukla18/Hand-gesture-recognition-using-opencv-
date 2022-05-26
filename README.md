@@ -3,15 +3,15 @@
 Recognizing "Hand Gestures" using OpenCV and Python.
 
 Libraries needed
-    cv2
-    imutils
-    numpy
-    sklearn
+    cv2,
+    imutils,
+    numpy,
+    sklearn.
 
 Usage
-    python segment.py
-    python recognize.py
-    python recognize-image.py
+    python segment.py,
+    python recognize.py,
+    python recognize-image.py.
 
 To understand how this works, please read the blog posts given below.
 
